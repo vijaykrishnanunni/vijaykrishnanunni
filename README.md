@@ -89,11 +89,6 @@ Interested in building **high-performance processors and hardware accelerators**
 
 ---
 
-## 🔗 Connect With Me
-
-- LinkedIn: *(add your link)*
-- GitHub: https://github.com/vijaykrishnanunni
-
 ---
 
 ## 🎯 Current Focus
