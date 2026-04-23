@@ -1,7 +1,7 @@
 ## Hello there 👋
 # Welcome to My GitHub Profile 👋
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 Hi, I'm **Vijay Krishnan Unni**  
 Electronics Engineering Student | VLSI & SoC Design Enthusiast  
