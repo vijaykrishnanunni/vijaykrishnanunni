@@ -87,7 +87,6 @@ Interested in building **high-performance processors and hardware accelerators**
 ![Stats](https://github-readme-stats.vercel.app/api?username=vijaykrishnanunni&theme=dark&show_icons=true)
 ![Streak](https://streak-stats.demolab.com/?user=vijaykrishnanunni&theme=dark)
 
-## 📊 Language Usage
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykrishnanunni&layout=compact&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=vijaykrishnanunni&theme=dark&show_icons=true)
